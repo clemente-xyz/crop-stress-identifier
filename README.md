@@ -13,7 +13,7 @@ Cool machine learning based api that classifies the type of disease of a crop pr
 
 ```
 .
-├── data                     # Knowledge base to train and evaluate the models
+├── data                     # Knowledge base to train and evaluate the models (actually using MNIST -- to be modified)
 ├── main.py                  # Main script of the API
 ├── nn.py                    # Multi-perceptron model (common neural network)
 ├── cnn.py                   # Convolutional neural network model
@@ -26,3 +26,4 @@ Just run `$ python3 main.py` on your project folder :metal:
 ## Authors
 
 - Clemente Serrano.
+- Camilo Zepeda
